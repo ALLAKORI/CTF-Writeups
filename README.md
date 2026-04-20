@@ -1,6 +1,6 @@
 # CTF Writeups
 
-This repository now serves as an index for my CTF writeups.
+This repository is now an archived index for my CTF writeups.
 
 Each competition has been split into its own dedicated repository:
 
@@ -9,4 +9,4 @@ Each competition has been split into its own dedicated repository:
 - [Ecowas_ctf_2026](https://github.com/ALLAKORI/Ecowas_ctf_2026)
 - [Enset_Challenge_2026](https://github.com/ALLAKORI/Enset_Challenge_2026)
 
-Competition folders may still exist here temporarily during the transition, but the standalone repositories above are now the canonical locations.
+This repository no longer stores the competition content directly. The repositories above are the canonical locations.
